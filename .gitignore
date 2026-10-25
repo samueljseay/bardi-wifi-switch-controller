@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+state/
+target.json
+pending-write.json
+*-intent.json
+*-result.json
